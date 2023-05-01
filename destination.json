@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Cox's Bazar",
+      "description": "Cox's Bazar is a coastal town in Bangladesh known for its long sandy beach, which stretches over 120 kilometers. It is the longest natural beach in the world and a popular tourist destination. Visitors can enjoy swimming, surfing, sunbathing, and other beach activities.",
+      "image": "https://images.unsplash.com/photo-1647456636154-f5f5fc99aec1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Sundarban",
+      "description": "Sundarbans is a mangrove forest in Bangladesh that is home to the Bengal tiger and other rare wildlife species. Visitors can take a boat tour through the forest to see the wildlife and enjoy the natural beauty of the area.",
+      "image": "https://images.unsplash.com/photo-1647456636154-f5f5fc99aec1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Srimangal",
+      "description": "Srimangal is a small town in Bangladesh known for its tea plantations and scenic beauty. Visitors can take a tour of the tea gardens and learn about the tea-making process. The area also has several waterfalls and hiking trails for outdoor enthusiasts.",
+      "image": "https://images.unsplash.com/photo-1647456636154-f5f5fc99aec1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Kuakata",
+      "description": "Kuakata is a seaside town in Bangladesh known for its panoramic sea views and stunning sunsets. It is located on the southern coast of the country and is a popular destination for beach lovers and adventure seekers.",
+      "image": "https://images.unsplash.com/photo-1647456636154-f5f5fc99aec1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Rangamati",
+      "description": "Rangamati is a scenic hill district in Bangladesh known for its natural beauty and ethnic diversity. Visitors can explore the district's picturesque landscapes, including waterfalls, lakes, and hills. The area is also home to several ethnic communities, and visitors can learn about their culture and traditions.",
+      "image": "https://images.unsplash.com/photo-1647456636154-f5f5fc99aec1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Bandarban",
+      "description": "Bandarban is a hill district in Bangladesh known for its scenic beauty and outdoor activities. Visitors can explore the district's waterfalls, trekking trails, and hilltop temples. The area is also home to several ethnic communities, and visitors can learn about their culture and traditions.",
+      "image": "https://images.unsplash.com/photo-1647456636154-f5f5fc99aec1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+    }
+  ]

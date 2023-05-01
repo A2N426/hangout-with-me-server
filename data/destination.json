@@ -1,0 +1,16 @@
+{
+    "destinations": [
+        {
+            "name": "COX'S BAZAR",
+            "image": "/Sajek.png"
+        },
+        {
+            "name": "SREEMANGL",
+            "image": "/Sreemongol.png"
+        },
+        {
+            "name": "SUNDARBANS",
+            "image": "/sundorbon.png"
+        }
+    ]
+}
